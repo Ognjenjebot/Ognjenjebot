@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ognjenjebot
+- 👋 Hi, I’m Ognjen Stanojevic
 - 👀 I’m interested in Software Engineering
 - 🌱 I’m currently a student at University of Belgrade School of Electrical Engineering, studying software engineering, second year
 - 💞
