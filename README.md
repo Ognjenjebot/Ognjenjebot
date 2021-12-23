@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ognjen Stanojevic
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m currently a student at University of Belgrade School of Electrical Engineering, studying software engineering, second year
+- 🌱 I’m currently a student at University of Belgrade School of Electrical Engineering, studying software engineering, third year
 - 💞
 - 📫 How to reach me ognjen.stanojevic321@gmail.com
 - I have knowledge in C, C++, Java
