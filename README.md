@@ -22,6 +22,7 @@ I'm currently a student, studying software engineering, who's higly motivated in
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.worldvectorlogo.com/logos/docker.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
 
 ## My activities
 
