@@ -24,15 +24,5 @@ I'm currently a student, studying software engineering, who's higly motivated in
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
 
-## My activities
-
-<a href="https://github.com/Ognjenjebot/github-readme-stats">
-  <img width=450 height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=Ognjenjebot&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true" />
-</a>
-<a href="https://github.com/Ognjenjebot/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ognjenjebot&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true" />
-</a>
-
-------
 
 Last Edited on: 26/03/2022
